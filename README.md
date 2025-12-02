@@ -5,7 +5,7 @@
 - 📫 How to reach me loayhezam1@gmail.com
 - ⏳ Weekly Coding Activity
 
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Loay-Alrazi&theme=dark)
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Loai-Alrazi&theme=dark)
 
 <!---
 Loai-Alrazi/Loai-Alrazi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

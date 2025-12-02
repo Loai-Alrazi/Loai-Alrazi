@@ -1,8 +1,11 @@
 - 👋 Hi, I’m @Loai-Alrazi
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Data Science, Machine Learning, Open Sourc
+- 🌱 I’m currently learning Python, Django, Cloud Computing
+- 💞️ I’m looking to collaborate on Beginner-friendly projects, Python utility scripts, simple web application
+- 📫 How to reach me loayhezam1@gmail.com
+- ⏳ Weekly Coding Activity
+
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Loay-Alrazi&theme=dark)
 
 <!---
 Loai-Alrazi/Loai-Alrazi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

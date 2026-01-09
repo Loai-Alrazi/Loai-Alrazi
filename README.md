@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Loai-Alrazi
 - 👀 I’m interested in Data Science, Machine Learning, Open Sourc
 - 🌱 I’m currently learning Python, Django, Cloud Computing
-- 💞️ I’m looking to collaborate on friendly projects, Python utility scripts, simple web application
+- 💞️ I’m looking to collaborate on friendly projects, Python utility scripts, web application
 - 📫 How to reach me loayhezam1@gmail.com
 - ⏳ Weekly Coding Activity
 [![wakatime](https://wakatime.com/badge/user/973b4ede-d7f1-4f97-a623-43e291611f47.svg)](https://wakatime.com/@973b4ede-d7f1-4f97-a623-43e291611f47)
